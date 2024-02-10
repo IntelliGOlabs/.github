@@ -1,3 +1,5 @@
-The **IntelliGO Labs** research team is formed by focused groups of people, all of them related to the area of Intelligent Systems​.
+# IntelliGO Labs #
 
-Website: https://intelligolabs.net/ 
+📚 Our laboratory research on theoretical yet practical advancement to use sensors to acquire multimodal data from the world and reason on them.
+
+💻 More about us on our website [intelligolabs.net](https://intelligolabs.net/labs/)!
