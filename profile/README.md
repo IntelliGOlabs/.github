@@ -1,5 +1,10 @@
-# IntelliGO Labs #
+# INTELLIGO Labs #
 
-📚 Our laboratory research on theoretical yet practical advancement to use sensors to acquire multimodal data from the world and reason on them.
+📚 Our laboratory is a research team formed by focused labs related to Artificial Intelligence topics:
+* Machine learning (ML lab)
+* Industrial Computer Vision (ICV lab)
+* Graphics and Interaction (GRAIL lab)
 
-💻 More about us on our website [intelligolabs.net](https://intelligolabs.net/labs/)!
+🏛 We are within the Department of Engineering of the University of Verona.
+
+💻 More about us on our website [intelligolabs.net](https://intelligolabs.net)!
