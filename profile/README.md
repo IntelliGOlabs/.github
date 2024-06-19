@@ -1,7 +1,7 @@
 # INTELLIGO Labs #
 
-📚 Our laboratory is a research team formed by focused labs related to Artificial Intelligence topics:
-* Machine learning (ML lab)
+📚 Our team is a research group composed of Artificial Intelligence labs focused on the following topics:
+* Machine Learning (ML lab)
 * Industrial Computer Vision (ICV lab)
 * Graphics and Interaction (GRAIL lab)
 
